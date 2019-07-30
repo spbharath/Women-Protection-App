@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "154008904300",
+    "firebase_url": "https://eagleeye-af8f2.firebaseio.com",
+    "project_id": "eagleeye-af8f2",
+    "storage_bucket": "eagleeye-af8f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154008904300:android:1d63e3456c77e9e2",
+        "android_client_info": {
+          "package_name": "com.spbn.womenprotection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154008904300-6t6dha4804f79djcl20ec2h865mbe6ib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spbn.womenprotection",
+            "certificate_hash": "af2fba6162db5e16f432fe7b61d9ab7c3fb4d941"
+          }
+        },
+        {
+          "client_id": "154008904300-20oaija428u881qjhg0d83idbc5fj6kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxIO4PM2GCFXPixxQ3Hq2F7JxORP_67Yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154008904300-20oaija428u881qjhg0d83idbc5fj6kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

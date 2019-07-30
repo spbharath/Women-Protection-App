@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/action_navigation"
+        android:enabled="true"
+        android:icon="@drawable/ic_directions_black_24dp"
+        android:title="@string/b_menu1"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_emergency"
+        android:enabled="true"
+        android:icon="@drawable/ic_security_black_24dp"
+        android:title="@string/b_menu2"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_safe"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="@string/b_menu3"
+        app:showAsAction="ifRoom" />
+
+
+</menu>

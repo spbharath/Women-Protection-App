@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/help_seeker"
+            android:icon="@drawable/ic_help_outline_black_24dp"
+            android:title="@string/menu1" />
+        <item
+            android:id="@+id/guard"
+            android:icon="@drawable/ic_security_black_24dp"
+            android:title="@string/menu2" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_lock_open_black_24dp"
+            android:title="@string/menu3" />
+    </group>
+</menu>

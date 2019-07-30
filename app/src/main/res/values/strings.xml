@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Eagle Eye</string>
+    <string name="menu1">Help-Seeker</string>
+    <string name="menu2">Guard</string>
+    <string name="menu3">Log Out</string>
+    <string name="b_menu1">Start</string>
+    <string name="b_menu2">Emergency</string>
+    <string name="b_menu3">Safe</string>
+    <string name="option1">Emergency</string>
+    <string name="option2">Add Contact</string>
+    <string name="option3">Message</string>
+    <string name="option4">Share Location</string>
+    <string name="option5">Help Line</string>
+    <string name="option6">Quit</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="access_token">sk.eyJ1Ijoic3BibjAzMDUiLCJhIjoiY2p2bzlidjM5MTR1ajQ0dm41dmw1enZnYSJ9.ipN9qhZWRpsdZH0266Vrtg</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="login">LOG IN</string>
+    <string name="reg">Need a new account?</string>
+    <string name="register">Register</string>
+    <string name="click_hear">Click Hear</string>
+    <string name="log_pg">Already have an account</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="contact_no">Contact Number :</string>
+    <string name="contact_name">Contact Name :</string>
+    <string name="modify">Modify</string>
+    <string name="remove">Remove</string>
+    <string name="safe_contact">Safe Contacts</string>
+    <string name="sent_sms">Sent SMS</string>
+    <string name="guard_track">Guard Tracking</string>
+    <string name="station_name">Station Name :</string>
+    <string name="no_tracking">No Tracking Available..Wait for request..</string>
+    <string name="tracking_enabled_notify">Tracking is currently enabled. Tap to cancel.</string>
+    <string name="no_internet">Oops! No Internet Connection</string>
+
+
+</resources>
